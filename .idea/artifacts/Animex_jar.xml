@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Animex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Animex_jar</output-path>
+    <root id="archive" name="Animex.jar">
+      <element id="module-output" name="Animex" />
+    </root>
+  </artifact>
+</component>
